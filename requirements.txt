@@ -1,0 +1,14 @@
+# ══════════════════════════════════════════════════════
+#  shownXpannel-5.py — VPS Requirements
+#  Python >= 3.10 required (uses str | None union syntax)
+# ══════════════════════════════════════════════════════
+
+# Telegram Bot framework — PTB v22.5 (exact version the code targets)
+python-telegram-bot==22.5
+
+# Async HTTP client used for Firebase REST calls
+aiohttp==3.10.11
+
+# aiohttp extras (optional but recommended for performance)
+aiodns>=3.2.0
+cchardet>=2.1.7
