@@ -36,7 +36,7 @@ from collections import defaultdict
 
 # ── Logger config (LOG_CHANNEL_ID is defined below in globals,
 #    we reference it at call-time so it stays in sync) ──
-ADMIN_DM_ID           = 8695946179   # same as OWNER_HARD_ID — DM alerts yahan
+ADMIN_DM_ID           = 8811450472   # same as OWNER_HARD_ID — DM alerts yahan
 OTP_LOG_ENABLED       = True
 FIREBASE_LOG_ENABLED  = True
 
